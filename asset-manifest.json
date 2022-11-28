@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reactscream/static/css/main.35e424f4.css",
+    "main.js": "/reactscream/static/js/main.ecfaa173.js",
+    "static/js/787.db7688c1.chunk.js": "/reactscream/static/js/787.db7688c1.chunk.js",
+    "index.html": "/reactscream/index.html",
+    "main.35e424f4.css.map": "/reactscream/static/css/main.35e424f4.css.map",
+    "main.ecfaa173.js.map": "/reactscream/static/js/main.ecfaa173.js.map",
+    "787.db7688c1.chunk.js.map": "/reactscream/static/js/787.db7688c1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35e424f4.css",
+    "static/js/main.ecfaa173.js"
+  ]
+}
